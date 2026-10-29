@@ -1,7 +1,7 @@
 # Course API — Express.js Modular MVC Assignment
 
-**Student Name:** [Write your name]  
-**Roll Number/ID:** [Write your roll number]
+**Student Name:** M Arham  
+**Roll Number/ID:** F26-020
 
 ## 1. Setup
 1. Install Node.js and MongoDB, or create a MongoDB Atlas database.
